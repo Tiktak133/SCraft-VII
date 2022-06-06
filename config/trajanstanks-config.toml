@@ -1,0 +1,28 @@
+
+#Config File for Trajan's Tank Mod
+["Light Tank Stats"]
+	"Light Tank Health (0-250)" = 80.0
+	"Light Tank Speed" = 0.6
+	"Light Tank Shot Cooldown (1 = 1/20 second)" = 60
+
+["Anti-Tank Stats"]
+	"Artillery Health" = 30.0
+	"Artillery Shot Cooldown (1 = 1/20 second)" = 75
+
+["Heavy Tank Stats"]
+	"Heavy Tank Health (0-250)" = 110.0
+	"Heavy Tank Speed" = 0.44
+	"Heavy Tank Shoot Cooldown (1 = 1/20 second" = 80
+
+["Medium Tank Stats"]
+	"Medium Tank Health (0-250)" = 95.0
+	"Medium Tank Speed" = 0.55
+	"Medium Tank Shoot Cooldown (1 = 1/20 second" = 70
+
+["Tank Shell Damages"]
+	"Shell Damage" = 60.0
+	"Shell Explosion Radius (Whole Number)" = 3
+	"Anti Tank Shell Damage" = 10.0
+	"Anti-Tank Shell Explosion Radius (Whole Number)" = 3
+	"Anti Tank Damage to Tank" = 20.0
+

@@ -1,0 +1,12 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screens.ReceivingLevelScreen": true,
+    "journeymap.client.ui.fullscreen.Fullscreen": true,
+    "journeymap.client.ui.fullscreen.menu.PopupMenu": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true
+  },
+  "hideBackground": {
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true
+  }
+}

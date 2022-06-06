@@ -1,0 +1,9 @@
+
+#General configuration settings
+[General]
+	#Use F3+H to show tooltips and get the name of the item, place it here. It get delete. Example: ["minecraft:stone"]
+	#or if you need to ban multiple ["minecraft:stone", "minecraft:dirt"]
+	"Items To Delete" = ["minecraft:torch", "minecraft:soul_torch", "minecraft:candle", "minecraft:white_candle", "minecraft:orange_candle", "minecraft:red_candle", "minecraft:black_candle", "minecraft:green_candle", "minecraft:brown_candle", "minecraft:blue_candle", "minecraft:cyan_candle", "minecraft:light_blue_candle", "minecraft:yellow_candle", "minecraft:purple_candle", "minecraft:magenta_candle", "minecraft:gray_candle", "minecraft:pink_candle", "minecraft:lime_candle", "minecraft:lantern", "minecraft:soul_lantern", "supplementaries:sconce", "supplementaries:sconce_soul", "immersiveengineering:lantern"]
+	#Enables/Disables the constant removal of items.
+	"Is it on?" = true
+
