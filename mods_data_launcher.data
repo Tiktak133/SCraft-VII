@@ -38,13 +38,13 @@ chunkloaders-1.1.12-mc1.18.jar
 citadel-1.11.3-1.18.2.jar
 cloth-config-6.2.62-forge.jar
 Clumps-forge-1.18.2-8.0.0+8.jar
-collective-1.18.2-4.25.jar
+collective-1.18.2-4.28.jar
 configured-1.5.3-1.18.2.jar
 connectivity-1.18.2-2.9.jar
 constructionwand-1.18.2-2.7.jar
 Controlling-forge-1.18.2-9.0+19.jar
 corpse-1.18.2-1.0.1.jar
-CraftTweaker-forge-1.18.2-9.1.150.jar
+CraftTweaker-forge-1.18.2-9.1.151.jar
 create-mc1.18.2_v0.4.1.jar
 create-stuff-additions1.18.2_v1.1.6.jar
 createaddition-1.18.2-20220517a.jar
@@ -83,7 +83,7 @@ Flint_axe - 6.0.jar
 flytre_lib-1.18.2-1.8.2-forge.jar
 flywheel-forge-1.18-0.6.2.jar
 FpsReducer2-forge-1.18.2-2.0.jar
-ftb-library-forge-1802.3.6-build.119.jar
+ftb-library-forge-1802.3.6-build.123.jar
 ftb-quests-forge-1802.3.8-build.101.jar
 ftb-teams-forge-1802.2.6-build.51.jar
 geckolib-1.18-forge-3.0.22.jar
@@ -99,7 +99,7 @@ immersive_weathering-1.18.2-1.2.11.jar
 Incendium_v5.0.4.jar
 item-filters-forge-1802.2.7-build.27.jar
 itemdelete-2.0.3.jar
-jei-1.18.2-9.7.0.195.jar
+jei-1.18.2-9.7.0.196.jar
 JEITweaker-1.18.2-3.0.0.8.jar
 Jockeys-1.18-1.0.0.jar
 journeymap-1.18.2-5.8.5-forge.jar
@@ -124,7 +124,7 @@ more_ships_1.18.2_3.jar
 MouseTweaks-forge-mc1.18-2.21.jar
 moyai-1.18.2-1.1.4.jar
 Mutant Wolf 1.0.0 - 1.18.2.jar
-Natural Decoration v.1.0.7.jar
+Natural Decoration v.1.0.8.jar
 NatureExpansion1.5 1.18.jar
 Neat 1.8-30.jar
 NethersDelight-1.18.2-2.2.0.jar
@@ -148,7 +148,7 @@ refinedstorageaddons-0.8.2.jar
 Rex's-AdditionalStructures-1.18.2-(v.3.0.3).jar
 sedna-1.18.2-forge-1.0.13+7355dbe.jar
 selene-1.18.2-1.17.3.jar
-Shrines-1.18.2-4.0.0-beta3.jar
+Shrines-1.18.2-4.0.0.jar
 simple-rpc-1.18.2-3.0.1.jar
 simpleshops-1.2.1.jar
 SneakyCurses-v3.0.0-1.18.2-Forge.jar
@@ -160,7 +160,7 @@ stonier_stones- 2.0.1 [forge-1.18.2].jar
 StorageDrawers-1.18.2-10.2.1.jar
 structures_compass-1.18.2-1.4.1.jar
 structure_gel-1.18.2-2.4.0.jar
-supermartijn642configlib-1.1.1-forge-mc1.18.jar
+supermartijn642configlib-1.1.2-forge-mc1.18.jar
 supermartijn642corelib-1.0.18-forge-mc1.18.jar
 supplementaries-1.18.2-1.4.2.jar
 Tab-Stats-1.18.2-1.0.2.jar
