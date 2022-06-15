@@ -2,13 +2,13 @@
 AdvancementPlaques-1.18.2-1.4.3.jar
 AI-Improvements-1.18.2-0.5.0.jar
 alexsdelight-1.18.2-1.2.3.jar
-alexsmobs-1.18.3.jar
+alexsmobs-1.18.5.jar
 alltheores-1.9.9b-1.18.2-40.1.0.jar
 all_in_the_quiver-1.18.2-1.1.2.jar
 Amplified_Nether_v1.1.1.jar
 appleskin-forge-mc1.18-2.4.0.jar
 Aquaculture-1.18.2-2.3.6.jar
-architectury-4.4.70.jar
+architectury-4.4.71.jar
 artifacts-1.18.2-4.0.7.jar
 AttributeFix-Forge-1.18.2-14.0.2.jar
 AutoRegLib-1.7-53.jar
@@ -16,23 +16,25 @@ awesomedungeon-2.0.8.jar
 AwesomeDungeonEnd-Forge-1.18.2-1.0.1.jar
 backpacked-2.1.6-1.18.2.jar
 badpackets-forge-0.1.2.jar
-balm-3.0.3+0.jar
+balm-3.1.0+0.jar
 better-loading-screen-1.4.0.jar
 betterfpsdist-1.18.2-1.5.jar
 BetterModsButton-v3.2.2-1.18.2-Forge.jar
 BetterPingDisplay-1.18.2-1.1.jar
-BetterThirdPerson-Forge-1.18.2-1.7.3.jar
+BetterThirdPerson-Forge-1.18.2-1.8.0.jar
 BetterVillage-Forge-1.18.2-1.0.1.jar
 BiomesOPlenty-1.18.2-16.0.0.109-universal.jar
 Boiled Axolotl Mod v1 - 1.18.2.jar
 bonsaitrees3-3.1.0.jar
 Buddycards-1.18.2-3.0.8.jar
 bygonenether-1.1.2-1.18.2.jar
+calemicore-1.0.14.jar
 camera-1.18.2-1.0.2.jar
 cardboardboxes-1.18.1-0.0.5.jar
 cfm-7.0.0-pre29-1.18.2.jar
 ChanceCubes-1.18.2-5.0.2.455.jar
 chat_heads-0.6.0-forge-1.18.1.jar
+chromatocreeper-1.18-1.1.jar
 Chunk Pregenerator-1.18-4.0.2.jar
 chunkloaders-1.1.12-mc1.18.jar
 citadel-1.11.3-1.18.2.jar
@@ -44,7 +46,7 @@ connectivity-1.18.2-2.9.jar
 constructionwand-1.18.2-2.7.jar
 Controlling-forge-1.18.2-9.0+19.jar
 corpse-1.18.2-1.0.1.jar
-CraftTweaker-forge-1.18.2-9.1.153.jar
+CraftTweaker-forge-1.18.2-9.1.154.jar
 create-mc1.18.2_v0.4.1.jar
 create-stuff-additions1.18.2_v1.1.6.jar
 createaddition-1.18.2-20220517a.jar
@@ -85,32 +87,35 @@ FpsReducer2-forge-1.18.2-2.0.jar
 ftb-library-forge-1802.3.6-build.123.jar
 ftb-quests-forge-1802.3.8-build.101.jar
 ftb-teams-forge-1802.2.6-build.51.jar
-geckolib-1.18-forge-3.0.22.jar
+geckolib-forge-1.18-3.0.24.jar
 Goat Horns  Copper Horns Mod - 1.18.2.jar
 Goblins_Dungeons_1.0.8.jar
 goblintraders-1.7.2-1.18.2.jar
 hardcore_torches_forge-1.18.2-2.4.jar
 healingcampfire_1.18.2-3.4.jar
 Iceberg-1.18.2-1.0.44.jar
-idas_forge-1.1.8+1.18.2.jar
+idas_forge-1.2.0+1.18.2.jar
 ImmersiveEngineering-1.18.2-8.0.2-149.jar
 immersive_weathering-1.18.2-1.2.11.jar
 Incendium_v5.0.4.jar
-item-filters-forge-1802.2.7-build.27.jar
+item-filters-forge-1802.2.7-build.29.jar
 itemdelete-2.0.3.jar
 jei-1.18.2-9.7.0.196.jar
+JEIEnchantmentInfo-1.17.1-2.0.0.jar
+jeiintegration_1.18.2-9.0.0.37.jar
 JEITweaker-1.18.2-3.0.0.8.jar
 Jockeys-1.18-1.0.0.jar
 journeymap-1.18.2-5.8.5-forge.jar
 JustEnoughProfessions-1.18.2-1.2.2.jar
-JustEnoughResources-1.18.2-0.14.1.170.jar
+JustEnoughResources-1.18.2-0.14.1.171.jar
 justplayerheads_1.18.2-2.0.jar
-LeftHanging-forge-1.18.2-3.2.0.0.jar
+LeftHanging-forge-1.18.2-3.2.0.1.jar
 LegendaryTooltips-1.18.2-1.2.4.jar
 libnonymous-2.1.0.jar
 LibraryFerret-Forge-1.18.2-1.0.3.jar
+lucky-block-forge-1.18.2-13.1.jar
 Magic rings 4.2  1.18.2.jar
-Mantle-1.18.2-1.9.20.jar
+Mantle-1.18.2-1.9.27.jar
 markdown_manual-1.18.2-forge-1.2.1+59006bb.jar
 Mekanism-1.18.2-10.2.3.463.jar
 memorysettings-1.18.2-2.2.jar
@@ -129,8 +134,8 @@ NethersDelight-1.18.2-2.2.0.jar
 NetherSkeletons4.5(1.18.2).jar
 notenoughanimations-forge-1.6.0-mc1.18.2.jar
 notenoughcrashes-4.1.4+1.18.2-forge.jar
-oc2-1.18.2-forge-0.1.7+6a003fc.jar
-Oh_The_Biomes_You'll_Go-forge-1.18.2-1.4.jar
+OfflineSkins-1.18.2-v2.jar
+Oh_The_Biomes_You'll_Go-forge-1.18.2-1.4.1.jar
 OptiFine_1.18.2_HD_U_H7.jar
 Paintings-forge-1.18.2-9.1.2.1.jar
 Pebbleodium v1.1.jar
@@ -138,16 +143,17 @@ PickUpNotifier-v3.2.0-1.18.2-Forge.jar
 Piglin Expansion 1.2 1.18.jar
 pipez-1.18.2-1.1.5.jar
 PlayerRevive_FORGE_v2.0.1_mc1.18.2.jar
+playingcards-1.0.0.jar
 primitivestart-1.18.2-1.2.0.jar
 PuzzlesLib-v3.3.5-1.18.2-Forge.jar
 Quark-3.2-357.jar
 refinedstorage-1.10.2.jar
 refinedstorageaddons-0.8.2.jar
 Rex's-AdditionalStructures-1.18.2-(v.3.1.0).jar
-sedna-1.18.2-forge-1.0.13+7355dbe.jar
-selene-1.18.2-1.17.4.jar
+selene-1.18.2-1.17.7.jar
 Shrines-1.18.2-4.0.0.jar
 simple-rpc-1.18.2-3.0.1.jar
+SimpleLogin-1.18-1.0.1.jar
 simpleshops-1.2.1.jar
 SneakyCurses-v3.0.0-1.18.2-Forge.jar
 SoL-Carrot-1.18.1-1.12.0.jar
@@ -157,15 +163,18 @@ starterkit_1.18.2-3.2.jar
 stonier_stones- 2.0.1 [forge-1.18.2].jar
 StorageDrawers-1.18.2-10.2.1.jar
 structures_compass-1.18.2-1.4.1.jar
-structure_gel-1.18.2-2.4.0.jar
+structure_gel-1.18.2-2.4.3.jar
 supermartijn642configlib-1.1.3-forge-mc1.18.jar
 supermartijn642corelib-1.0.18-forge-mc1.18.jar
-supplementaries-1.18.2-1.4.2.jar
+supplementaries-1.18.2-1.4.6.jar
+Survive-1.18.2-7.0.3.jar
 Tab-Stats-1.18.2-1.0.2.jar
-TConstruct-1.18.2-3.5.0.17.jar
+TConstruct-1.18.2-3.5.1.31.jar
 TerraBlender-forge-1.18.2-1.1.0.102.jar
 ThisRocks-1.18.2-1.0.2.jar
+Towns-and-Towers-1.18.2-1.6.0.jar
 trashcans-1.0.15-forge-mc1.18.jar
+UnionLib-1.18.2-7.1.1-Forge.jar
 unlitcampfire-forge-1.18.1-1.5.0.0.jar
 untamedwilds-1.18.2-2.1.3.jar
 upgradedcore-1.18.2-3.2.0.0-release.jar
@@ -173,8 +182,8 @@ upgradednetherite-1.18.2-4.2.0.6-release.jar
 upgradednetherite_items-1.18.2-3.2.0.0-release.jar
 valhelsia_core-1.18.2-0.3.1.jar
 valhelsia_structures-forge-1.18.2-0.1.0.jar
-voicechat-forge-1.18.2-2.2.32.jar
-wthit-forge-4.10.3.jar
+voicechat-forge-1.18.2-2.2.45.jar
+wthit-forge-4.10.4.jar
 YASD B.1.2.1-1.18.2.jar
 YungsApi-1.18.2-Forge-2.0.8.jar
 YungsBetterDungeons-1.18.2-Forge-2.1.0.jar
