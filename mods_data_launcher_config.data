@@ -56,6 +56,7 @@ config\dummmmmmy-common.toml
 config\dungeons_enhanced-common.toml
 config\dungeon_crawl.toml
 config\durabilitynotifier-client.toml
+config\dynview-common-1.toml.bak
 config\dynview-common.toml
 config\entityculling.json
 config\exoticbirds-common-1.toml.bak
@@ -69,6 +70,7 @@ config\fallingleaves-client.toml
 config\fallingtree.json
 config\farmersdelight-client.toml
 config\farmersdelight-common.toml
+config\farsight-common-1.toml.bak
 config\farsight-common.toml
 config\ferritecore-mixin.toml
 config\firstaid-client.toml
@@ -113,13 +115,14 @@ config\nethersdelight-common.toml
 config\nologpunch.toml
 config\notenoughanimations.json
 config\notenoughcrashes.json
+config\oc2-common-1.toml.bak
 config\oc2-common.toml
-config\paintings-client.toml
 config\pickupnotifier-client.toml
 config\pipez-client.toml
 config\playerrevive-client.json
 config\playerrevive.json
 config\PregenConfig.toml
+config\quark-common-1.toml.bak
 config\quark-common.toml
 config\rare-ice.properties
 config\refinedstorage-client.toml
@@ -129,6 +132,7 @@ config\sidebar_buttons.json
 config\simple-rpc.bak
 config\simple-rpc.toml
 config\skinlayers.json
+config\smoothchunk-common.toml
 config\sneakycurses-client.toml
 config\snowundertrees-common.toml
 config\solcarrot-client.toml
@@ -136,12 +140,16 @@ config\starterkit-common.toml
 config\storagedrawers-client.toml
 config\storagedrawers-common.toml
 config\structures_compass-client.toml
+config\structures_compass-common-1.toml.bak
 config\structures_compass-common.toml
 config\structure_gel-client.toml
 config\structure_gel-common.toml
 config\supplementaries-client.toml
 config\supplementaries-common.toml
 config\supplementaries-registry.toml
+config\survive-client.toml
+config\survive-common.toml
+config\survive-server.toml
 config\tabstats-server.toml
 config\tconstruct-client.toml
 config\tconstruct-common.toml
@@ -149,6 +157,9 @@ config\terrablender.toml
 config\tr7zwDonorSettings.json
 config\trajanstanks-config.toml
 config\trofers-common.toml
+config\unionlib-client.toml
+config\unionlib-common.toml
+config\unionlib-server.toml
 config\universalgrid-common.toml
 config\untamedwilds-common.toml
 config\upgradednetherite-client.toml
@@ -163,6 +174,7 @@ config\waterdripsound-client-4.toml.bak
 config\waterdripsound-client-5.toml.bak
 config\waterdripsound-client.toml
 config\weirdmobs-common.toml
+config\wirelesschargers-common.toml
 config\zombiehorsespawn-common.toml
 config\alexsmobs\alligator_snapping_turtle_spawns.json
 config\alexsmobs\anaconda_spawns.json
@@ -251,6 +263,7 @@ config\betterstrongholds\forge-1_18_2\rareblocks.json
 config\betterstrongholds\forge-1_18_2\README.txt
 config\better_loading_screen\config.json5
 config\biomesoplenty\biome_toggles.json
+config\biomesoplenty\generation-1.toml.bak
 config\biomesoplenty\generation.toml
 config\byg\biomepedia.json5
 config\byg\byg-biome-dictionary.json
@@ -337,12 +350,44 @@ config\jei\recipe-category-sort-order.ini
 config\jei\world\local\New_World\bookmarks.ini
 config\jei\world\local\world__2\bookmarks.ini
 config\jei\world\server\SCraft_VII_Official_Server_423d2f1c\bookmarks.ini
+config\lucky\1.18.2-13.1-forge\bow_drops.txt
+config\lucky\1.18.2-13.1-forge\drops.txt
+config\lucky\1.18.2-13.1-forge\luck_crafting.txt
+config\lucky\1.18.2-13.1-forge\natural_gen.txt
+config\lucky\1.18.2-13.1-forge\potion_drops.txt
+config\lucky\1.18.2-13.1-forge\properties.txt
+config\lucky\1.18.2-13.1-forge\structures.txt
+config\lucky\1.18.2-13.1-forge\sword_drops.txt
+config\lucky\1.18.2-13.1-forge\structures\acropolis.nbt
+config\lucky\1.18.2-13.1-forge\structures\bedrock_problem.luckystruct
+config\lucky\1.18.2-13.1-forge\structures\bouncing_castle.nbt
+config\lucky\1.18.2-13.1-forge\structures\cage.nbt
+config\lucky\1.18.2-13.1-forge\structures\cage_sign.luckystruct
+config\lucky\1.18.2-13.1-forge\structures\drill_hole.nbt
+config\lucky\1.18.2-13.1-forge\structures\lucky_choice_left.luckystruct
+config\lucky\1.18.2-13.1-forge\structures\lucky_choice_right.luckystruct
+config\lucky\1.18.2-13.1-forge\structures\meteor.nbt
+config\lucky\1.18.2-13.1-forge\structures\water_cage.nbt
+config\lucky\1.18.2-13.1-forge\structures\wishing_well.nbt
+config\lucky\1.18.2-13.1-forge\structures\giant_blocks\break_stage_1.nbt
+config\lucky\1.18.2-13.1-forge\structures\giant_blocks\break_stage_2.nbt
+config\lucky\1.18.2-13.1-forge\structures\giant_blocks\break_stage_3.nbt
+config\lucky\1.18.2-13.1-forge\structures\giant_blocks\break_stage_4.nbt
+config\lucky\1.18.2-13.1-forge\structures\giant_blocks\break_stage_5.nbt
+config\lucky\1.18.2-13.1-forge\structures\giant_blocks\lucky_block.nbt
+config\lucky\1.18.2-13.1-forge\structures\giant_blocks\lucky_block_inner_bad.luckystruct
+config\lucky\1.18.2-13.1-forge\structures\giant_blocks\lucky_block_inner_good.luckystruct
+config\lucky\1.18.2-13.1-forge\structures\lucky_buildings\fort.nbt
+config\lucky\1.18.2-13.1-forge\structures\lucky_buildings\fort_inner.luckystruct
+config\lucky\1.18.2-13.1-forge\structures\lucky_buildings\temple.nbt
+config\lucky\1.18.2-13.1-forge\structures\lucky_buildings\temple_inner.luckystruct
 config\Mekanism\client.toml
 config\Mekanism\common.toml
 config\Mekanism\gear.toml
 config\Mekanism\general.toml
 config\Mekanism\machine-storage.toml
 config\Mekanism\machine-usage.toml
+config\Mekanism\tiers-1.toml.bak
 config\Mekanism\tiers.toml
 config\Mekanism\world.toml
 config\shrines\settings.toml
@@ -350,6 +395,13 @@ config\sound_physics_remastered\occlusion.properties
 config\sound_physics_remastered\reflectivity.properties
 config\sound_physics_remastered\soundphysics.properties
 config\starterkit\starterkit.txt
+config\Survive Configs\hygiene-common.toml
+config\Survive Configs\stamina-client.toml
+config\Survive Configs\stamina-common.toml
+config\Survive Configs\temperature-client.toml
+config\Survive Configs\temperature-common.toml
+config\Survive Configs\thirst-common.toml
+config\Survive Configs\wellbeing-common.toml
 config\the_bumblezone\bee_aggression.toml
 config\the_bumblezone\client.toml
 config\the_bumblezone\dimension.toml

@@ -3,7 +3,7 @@
 "chest" : "",
 "legs" : "",
 "feet" : "minecraft:leather_boots",
-0 : "minecraft:wooden_axe",
+0 : "firstaid:bandage",
 1 : "minecraft:bread-2",
 2 : "minecraft:flint and steel",
 3 : "",

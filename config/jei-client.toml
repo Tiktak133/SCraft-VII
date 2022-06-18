@@ -5,7 +5,7 @@
 	#Display search bar in the center
 	CenterSearch = false
 	#Set low-memory mode (makes search very slow, but uses less RAM)
-	LowMemorySlowSearchEnabled = true
+	LowMemorySlowSearchEnabled = false
 	#Enable cheating items into the hotbar by using the shift+number keys.
 	CheatToHotbarUsingHotkeysEnabled = false
 	#How items should be handed to you
