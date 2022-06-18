@@ -30,6 +30,7 @@ config\cfm-client.toml
 config\cfm-common.toml
 config\chargers-common.toml
 config\chat_heads.json5
+config\chromatocreeper-client.toml
 config\chunkloaders-common.toml
 config\citadel-common.toml
 config\collective-common.toml
@@ -95,6 +96,7 @@ config\invmove.json
 config\ironjetpacks-client.toml
 config\ironjetpacks-common.toml
 config\jei-client.toml
+config\jeiintegration-client.toml
 config\jeresources-common.toml
 config\jeresources.toml
 config\jmt_mcmt-sync-fu-list.txt
@@ -117,6 +119,8 @@ config\notenoughanimations.json
 config\notenoughcrashes.json
 config\oc2-common-1.toml.bak
 config\oc2-common.toml
+config\offlineskins.json
+config\paintings-client.toml
 config\pickupnotifier-client.toml
 config\pipez-client.toml
 config\playerrevive-client.json
