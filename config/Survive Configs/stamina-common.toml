@@ -60,7 +60,7 @@
 #Default: 300
 #-------------------------------------------
 #Range: 0 ~ 10000
-"Integer: Stamina Recovery Ticks" = 150
+"Integer: Stamina Recovery Ticks" = 300
 #
 ############################################
 #The maximum weight (kg) of armor that the player can carry without losing stamina

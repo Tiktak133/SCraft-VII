@@ -21,6 +21,12 @@ craftingTable.remove(<item:create_stuff_additions:copper_sword>);
 craftingTable.remove(<item:create_stuff_additions:copper_shovel>);
 craftingTable.remove(<item:create_stuff_additions:copper_hoe>);
 
+craftingTable.remove(<item:minecraft:glowstone>);
+craftingTable.remove(<item:minecraft:torch>);
+craftingTable.remove(<item:minecraft:soul_torch>);
+craftingTable.remove(<item:minecraft:lantern>);
+craftingTable.remove(<item:minecraft:soul_lantern>);
+
 craftingTable.remove(<item:supplementaries:copper_lantern>);
 
 craftingTable.remove(<item:chancecubes:chance_cube>);

@@ -17,7 +17,7 @@
 	torchesUseCan = true
 	#Globally modify all oil can recipes. 0.5 means all items give half as much oil.
 	#Range: 0.0 ~ 1.7976931348623157E308
-	oilRecipeMultiplier = 0.1
+	oilRecipeMultiplier = 1.0
 	#0: Craft oil using can and animal fat
 	#1: Craft oil using can and coal
 	#2: Both enabled
@@ -59,7 +59,7 @@
 [lantern]
 	#The max amount of fuel a lantern can hold. There are 20 ticks per second so 144000 ticks = 60 minutes.
 	#Range: > 1
-	defaultLanternFuel = 72000
+	defaultLanternFuel = 144000
 	#A lantern must have at least this much fuel to be ignited from unlit. Once lit it will continue to burn to 0
 	#Range: > 1
 	minLanternIgnitionFuel = 1

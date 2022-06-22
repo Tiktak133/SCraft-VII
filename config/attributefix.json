@@ -88,17 +88,6 @@
         "value": 10000000
       }
     },
-    "survive:generic.heat_resistance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
     "forge:entity_gravity": {
       "enabled": false,
       "min": {
@@ -107,6 +96,17 @@
       },
       "max": {
         "default": 8,
+        "value": 10000000
+      }
+    },
+    "survive:generic.heat_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
         "value": 10000000
       }
     },
