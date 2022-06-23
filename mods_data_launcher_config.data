@@ -131,6 +131,7 @@ config\quark-common.toml
 config\rare-ice.properties
 config\refinedstorage-client.toml
 config\rocks-common.toml
+config\rsrequestify-common.toml
 config\scorpions-common.toml
 config\sidebar_buttons.json
 config\simple-rpc.bak
@@ -354,6 +355,7 @@ config\jei\recipe-category-sort-order.ini
 config\jei\world\local\New_World\bookmarks.ini
 config\jei\world\local\world__2\bookmarks.ini
 config\jei\world\server\SCraft_VII_Official_Server_423d2f1c\bookmarks.ini
+config\lucky\1.18.2-13.1-forge\.showupdate.cache
 config\lucky\1.18.2-13.1-forge\bow_drops.txt
 config\lucky\1.18.2-13.1-forge\drops.txt
 config\lucky\1.18.2-13.1-forge\luck_crafting.txt
@@ -412,6 +414,9 @@ config\the_bumblezone\dimension.toml
 config\the_bumblezone\general.toml
 config\the_bumblezone\mod_compatibility.toml
 config\the_bumblezone\worldgen.toml
+config\toughasnails\client.toml
+config\toughasnails\temperature.toml
+config\toughasnails\thirst.toml
 config\voicechat\username-cache.json
 config\voicechat\voicechat-volumes.properties
 config\waila\blacklist.json
