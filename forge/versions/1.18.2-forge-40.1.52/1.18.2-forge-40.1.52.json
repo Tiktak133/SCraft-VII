@@ -4,9 +4,9 @@
         "Our efforts are supported by ads from the download page.",
         "If you MUST automate this, please consider supporting the project through https://www.patreon.com/LexManos/"
     ],
-    "id": "1.18.2-forge-40.1.51",
-    "time": "2022-06-09T19:46:40+00:00",
-    "releaseTime": "2022-06-09T19:46:40+00:00",
+    "id": "1.18.2-forge-40.1.52",
+    "time": "2022-06-20T22:24:02+00:00",
+    "releaseTime": "2022-06-20T22:24:02+00:00",
     "type": "release",
     "mainClass": "cpw.mods.bootstraplauncher.BootstrapLauncher",
     "inheritsFrom": "1.18.2",
@@ -18,7 +18,7 @@
             "--launchTarget",
             "forgeclient",
             "--fml.forgeVersion",
-            "40.1.51",
+            "40.1.52",
             "--fml.mcVersion",
             "1.18.2",
             "--fml.forgeGroup",
@@ -297,13 +297,13 @@
             }
         },
         {
-            "name": "net.minecraftforge:fmlloader:1.18.2-40.1.51",
+            "name": "net.minecraftforge:fmlloader:1.18.2-40.1.52",
             "downloads": {
                 "artifact": {
-                    "path": "net/minecraftforge/fmlloader/1.18.2-40.1.51/fmlloader-1.18.2-40.1.51.jar",
-                    "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlloader/1.18.2-40.1.51/fmlloader-1.18.2-40.1.51.jar",
-                    "sha1": "3d1214b83924da63a4ad73aeaf58ca96229fb4f4",
-                    "size": 238924
+                    "path": "net/minecraftforge/fmlloader/1.18.2-40.1.52/fmlloader-1.18.2-40.1.52.jar",
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlloader/1.18.2-40.1.52/fmlloader-1.18.2-40.1.52.jar",
+                    "sha1": "033b3c9b972dd5e7ab3cec4a3fa996e293f65243",
+                    "size": 238923
                 }
             }
         }
