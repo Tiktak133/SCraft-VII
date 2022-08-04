@@ -21,7 +21,31 @@ craftingTable.remove(<item:create_stuff_additions:copper_sword>);
 craftingTable.remove(<item:create_stuff_additions:copper_shovel>);
 craftingTable.remove(<item:create_stuff_additions:copper_hoe>);
 
+craftingTable.remove(<item:byg:boric_lantern>);
+craftingTable.remove(<item:byg:therium_lantern>);
+craftingTable.remove(<item:byg:cryptic_lantern>);
+
+craftingTable.remove(<item:minecraft:sea_lantern>);
+craftingTable.remove(<item:immersiveengineering:lantern>);
+craftingTable.remove(<item:quark:duskbound_lantern>);
+craftingTable.remove(<item:quark:blaze_lantern>);
+craftingTable.remove(<item:quark:paper_lantern>);
+craftingTable.remove(<item:quark:paper_lantern_sakura>);
+craftingTable.remove(<item:supplementaries:copper_lantern>);
+craftingTable.remove(<item:supplementaries:brass_lantern>);
+craftingTable.remove(<item:supplementaries:crimson_lantern>);
+craftingTable.remove(<item:supplementaries:silver_lantern>);
+craftingTable.remove(<item:supplementaries:lead_lantern>);
+craftingTable.remove(<item:tconstruct:seared_lantern>);
+craftingTable.remove(<item:tconstruct:scorched_lantern>);
+craftingTable.remove(<item:torchmaster:feral_flare_lantern>);
+
 craftingTable.remove(<item:minecraft:glowstone>);
+craftingTable.addShaped("glowstonetak", <item:minecraft:glowstone>, [
+    [<item:minecraft:glowstone_dust>, <item:immersiveengineering:electric_lantern>, <item:minecraft:glowstone_dust>], 
+    [<item:byg:subzero_crystal_block>, <item:minecraft:gold_block>, <item:byg:subzero_crystal_block>], 
+    [<item:minecraft:glowstone_dust>, <item:immersiveengineering:electric_lantern>, <item:minecraft:glowstone_dust>]]);
+
 craftingTable.remove(<item:minecraft:torch>);
 craftingTable.remove(<item:minecraft:soul_torch>);
 craftingTable.remove(<item:minecraft:lantern>);
